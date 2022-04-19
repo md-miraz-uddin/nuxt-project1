@@ -1,0 +1,13 @@
+img{
+    width: 100%;
+}
+
+ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+a{
+    display: inline-block;
+    text-decoration: none;
+}
